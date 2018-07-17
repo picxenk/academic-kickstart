@@ -1,0 +1,32 @@
+name = "Metakits"
+license = "MIT"
+licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
+description = "modified theme from Academic"
+homepage = "https://github.com/gcushen/hugo-academic"
+min_version = 0.30
+tags = ["academic",
+        "portfolio",
+        "responsive",
+        "student",
+        "personal",
+        "university",
+        "blog",
+        "minimal"
+        ]
+features = ["academic profile",
+            "research publication system",
+            "projects",
+            "blog",
+            "teaching",
+            "contact"
+            ]
+
+[author]
+  name = "Noname"
+  homepage = "http://metakits.cc"
+
+# If porting an existing theme
+[original]
+  name = "George Cushen"
+  homepage = "https://georgecushen.com"
+  repo = ""
